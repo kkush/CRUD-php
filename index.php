@@ -9,7 +9,7 @@
 <body>
     <div class="container">
             <div class="row">
-                <h3>DRIVEKOOL CRUD TEST</h3>
+                <h3>CRUD TEST</h3>
             </div>
             <div class="row">
                 <p>
