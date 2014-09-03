@@ -20,7 +20,6 @@
         $name = $_POST['name'];
         $email = $_POST['email'];
         $mobile = $_POST['mobile'];
-        $address =$_POST['address']; 
         // validate input
         $valid = true;
         if (empty($name)) {
@@ -55,7 +54,6 @@
         $name = $data['name'];
         $email = $data['email'];
         $mobile = $data['mobile'];
-        $address = $data['address'];
         Database::disconnect();
     }
 ?>
